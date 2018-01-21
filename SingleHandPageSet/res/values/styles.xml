@@ -3,7 +3,7 @@
     <style name="AppBaseTheme" parent="@nubia:style/Theme.Nubia.NoActionBar" />
     <style name="AppTheme" parent="@style/AppBaseTheme" />
     <style name="AnimationNubiaDialog" parent="@nubia:style/Theme.Nubia.Dialog.Alert">
-        <item name="android:windowEnterAnimation">@anim/nubia_center_alert_dialog_enter</item>
-        <item name="android:windowExitAnimation">@anim/nubia_center_alert_dialog_exit</item>
+        <item name="android:windowEnterAnimation">כניסה</item>
+        <item name="android:windowExitAnimation">יציאה</item>
     </style>
 </resources>
